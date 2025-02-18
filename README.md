@@ -1,2 +1,2 @@
 # HCP-Factor-Analysis
-An exploratory factor analysis I did using the public domain Human Connectome Project 1200 Subjects Data Release
+An exploratory factor analysis I did using the public domain Human Connectome Project 1200 Subjects Data Release. I used principal component analysis and factor analysis to explore a theorized connection between stable and flexible cognitive control abilities. In addition to the R script I used to perform this analysis, I've included in this folder documents displaying the R output and summarizing my analysis.
